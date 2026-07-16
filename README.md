@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1302180439.svg)](https://doi.org/10.5281/zenodo.21389808)
+
 # Code for neonatal sepsis single-cell RNA-seq analysis
 
 This repository contains the custom analysis scripts used for the manuscript:

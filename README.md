@@ -45,3 +45,6 @@ To install the required packages:
 
 ```bash
 pip install -r requirements.txt
+
+Reproducibility
+This repository is intended to provide the custom code required to reproduce the analyses and figures described in the manuscript. Large input data files are not stored in this repository and should be downloaded from the public data repository associated with the study.

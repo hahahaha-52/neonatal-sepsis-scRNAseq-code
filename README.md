@@ -6,6 +6,10 @@ This repository contains the custom analysis scripts used for the manuscript:
 
 The scripts support preprocessing, quality control, dimensionality reduction, clustering, cell-type annotation, differential expression analysis, gene-set scoring, trajectory analysis, pathway enrichment, ligand–receptor analysis, and figure generation for the neonatal sepsis single-cell RNA-seq study.
 
+## Reproducibility
+
+This repository is intended to provide the custom code required to reproduce the analyses and figures described in the manuscript. Large input data files are not stored in this repository and should be downloaded from the public data repository associated with the study.
+
 ## Repository structure
 
 scripts/
@@ -45,6 +49,3 @@ To install the required packages:
 
 ```bash
 pip install -r requirements.txt
-
-Reproducibility
-This repository is intended to provide the custom code required to reproduce the analyses and figures described in the manuscript. Large input data files are not stored in this repository and should be downloaded from the public data repository associated with the study.
